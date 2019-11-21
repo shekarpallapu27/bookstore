@@ -1,7 +1,7 @@
 #install virtual environament
-virtualenv -p python3 bakery_env
+virtualenv -p python3 book_env
 
-#activate virtual environment as bakery_env
+#activate virtual environment as book_env
 source book_env/bin/activate
 
 #install required packages
